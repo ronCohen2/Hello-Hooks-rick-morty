@@ -1,0 +1,15 @@
+.character-card {
+  margin: 20px;
+  border: 1px solid hsl(0, 0%, 0%);
+  display: flex;
+}
+span {
+  color: orange;
+  float: right;
+}
+.CardTitle {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
